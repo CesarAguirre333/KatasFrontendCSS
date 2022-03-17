@@ -1,0 +1,343 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#t1{
+    color: blue;
+    position: absolute;
+    top: 8px;
+    left: 50px;
+}
+.arriba{
+    color: rgb(88, 88, 88);
+    text-decoration:none;
+    padding: 10px;
+    position:relative;
+    left: 300px;
+    top: 11px;
+}
+a.arriba:hover{
+    color: blue;
+}
+#b1:hover{
+    background-color: rgb(47, 52, 146);
+}
+#b2:hover{
+    background-color: rgb(47, 52, 146);
+}
+#b1
+{
+    width: 120px;
+    background-color: blue;
+    color: white;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+    
+}
+#img1{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+}
+#main{
+    position: absolute;
+    font-size: 36px;
+    left: 50px;
+    top: 110px;
+    color: rgb(6, 6, 150);
+}
+#pmain{
+    position:absolute;
+    color: rgb(75, 75, 75);
+    top: 220px;
+    left: 50px;
+}
+.maincarac{
+    position:relative;
+    top: 310px;
+    left: -400px;
+    padding: 15px;
+    color: rgb(39, 39, 75);
+}
+#escAma{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 319px;
+    left: 40px;
+}
+#estAma{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 323px;
+    left: 182px;
+}
+#schedule{
+    color: rgb(39, 39, 75);
+    position: absolute;
+    left: 75px;
+    top: 420px;
+
+}
+#relAzu{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 440px;
+    left: 48px;
+}
+#cuadro{
+    background-color: rgb(231, 238, 241);
+    position: absolute;
+    top: 485px;
+    left: 50px;
+    border-radius: 10px;
+    width: 636px;
+    height: 90px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+#tabla{
+    color:  rgb(22, 22, 129);
+    position: absolute;
+    width: 450px;
+    text-align:left;
+    top: 500px;
+    left: 87px;
+
+}
+#b2{
+    position: absolute;
+    top: 503px;
+    left: 525px;
+    width: 120px;
+    height: 43px;
+    background-color: blue;
+    color: white;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+    
+}
+#vacunas
+{
+    position: absolute;
+    top: 600px;
+    left: 40px;
+}
+#inorder{
+    color: rgb(75, 75, 75);
+}
+.partemedia{
+    color: rgb(22, 22, 129);
+    position: relative;
+    top: 717px;
+    left: 50px;
+}
+#tabla2{
+    color:  rgb(22, 22, 129);
+    position: absolute;
+    border-spacing: 50px 10px;
+    width: 875px;
+    text-align:left;
+    top: 960px;
+    left: 87px;
+}
+.t2d{
+    font-size: small;
+}
+.t2h{
+    font-size: 18px;
+}
+.imgAzu{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 920px;
+}
+#conAzu{
+    left: 150px;
+}
+#escAzu{
+    left: 350px;
+}
+#perAzu{
+left: 550px;
+}
+#notAzu{
+left: 772px;
+width: 35px;
+height: 35px;
+}
+#preparations{
+    color: rgb(22, 22, 129);
+    position: absolute;
+    top: 1300px;
+    left: 580px;
+}
+#img2{
+    position:absolute;
+    height: 400px;
+    width: 400px;
+    top: 1400px;
+    left: 120px;
+}
+#thesuccess{
+    color: rgb(75, 75, 75);
+    position: absolute;
+    top: 1400px;
+    left: 580px;
+}
+.psabajo{
+    position: relative;
+    top: 1320px;
+    left: 606px;
+    padding: 5px;
+    color: rgb(22, 22, 129);
+}
+.corAzu{
+    position: absolute;
+   
+    left: 590px;
+    width: 18px;
+    height: 18px;
+}
+#ca1{
+    top: 1516px;
+}
+#ca2{
+    top: 1560px;
+}
+#ca3{
+    top: 1604px;
+}
+#ca4{
+    top: 1652px;
+}
+#ca5{
+    top: 1696px;
+}
+#emergency{
+    color: rgb(22, 22, 129);
+    position: absolute;
+    top: 1900px;
+    left: 200px;
+}
+#contact{
+    color: rgb(75, 75, 75);
+    position: absolute;
+    top: 1980px;
+    left: 200px;
+}
+#img3{
+    position:absolute;
+    height: 400px;
+    width: 490px;
+    top: 2000px;
+    left: 630px;
+}
+.tabfinal{
+    font-size: 20;
+    color: rgb(22, 22, 129);
+    position: absolute;
+    top: 2110px;
+    left: 100px;
+    border-collapse: separate;
+    border-spacing: 121px 15px;
+    text-align: right;
+}
+#tabfin{
+    position: absolute;
+    top: 2260px;
+}
+#llaAzu{
+    top: 2120px;
+    left: 204px;
+}
+#chaAzu{
+    top: 2120px;
+    left: 424px;
+}
+#vidAzu{
+    top: 2270px;
+    left: 200px;
+}
+#menAzu{
+    top: 2270px;
+    left: 424px;
+}
+#bultimo2{
+    width: 120px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+    position: absolute;
+    top: 2198px;
+    left: 424px;
+}
+#bultimo2:hover{
+    background-color: rgb(47, 52, 146);
+}
+.bultimos{
+    width: 120px;
+    height: 35px;
+    background-color: rgb(215, 229, 235);
+    color: hsl(241, 100%, 52%);
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+}
+#bultimo1{
+    top: 2198px;
+    left: 215px;
+}
+#bultimo3{
+    top: 2345px;
+    left: 215px;
+}
+#bultimo4{
+    top: 2345px;
+    left: 424px;
+}
+.bultimos:hover{
+    background-color: rgb(137, 198, 224);
+}
+#tultimo{
+    color: blue;
+    position: absolute;
+    top: 2480px;
+    left: 50px;
+}
+#pultimo{
+    color: rgb(75, 75, 75);
+    position: absolute;
+    top: 2520px;
+    left: 50px;
+}
+#derechos{
+    color: rgb(126, 125, 125);
+    position: absolute;
+    top: 2650px;
+    left: 50px;
+}
+#ultimatabla{
+    font-size: 20;
+    color: rgb(22, 22, 129);
+    position: absolute;
+    top: 2480px;
+    width: 560px;
+    left: 600px;
+    border-collapse: separate;
+    border-spacing: 55px 15px;
+    text-align: left;
+}
+#ultimop{
+    color: rgb(126, 125, 125);
+    position: absolute;
+    top: 2650px;
+    left: 700px;
+}
+
